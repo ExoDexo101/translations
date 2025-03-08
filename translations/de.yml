@@ -1296,21 +1296,21 @@ reportUserData:
 
 PaymentStatus:
 # English for ⤵: Payment successful!
-  paymentSuccess: Payment successful!
+  paymentSuccess: Zahlung erfolgreich!
 # English for ⤵: Payment failed!
-  paymentFailed: Payment failed!
+  paymentFailed: Zahlung fehlgeschlagen!
 # English for ⤵: Your payment has been successfully processed!
-  successText: Your payment has been successfully processed!
+  successText: Deine Zahlung wurde erfolgreich bearbeitet!
 # English for ⤵: Unfortunately, your payment could not be processed. Please try again.
-  failedText: Unfortunately, your payment could not be processed. Please try again.
+  failedText: Leider konnte deine Zahlung nicht bearbeitet werden. Bitte versuche es später erneut.
 # English for ⤵: Try Again
-  tryAgain: Try Again
+  tryAgain: Bitte nochmal versuchen
 # English for ⤵: You are now a premium BeeDee user!
-  nowPremiumUser: You are now a premium BeeDee user!
+  nowPremiumUser: Du bist jetzt ein premium BeeDee Nutzer!
 # English for ⤵: Your Whips have now been added to your account!
-  whipsAddedToAccount: Your Whips have now been added to your account!
+  whipsAddedToAccount: Deine Whips wurden jetzt deinem Account hinzugefügt!
 # English for ⤵: Please contact help desk if you are facing any issue regarding payment.
-  contactHelpDesk: Please contact help desk if you are facing any issue regarding payment.
+  contactHelpDesk: Bitte Kontaktieren den Support falls es zu Problemen bezüglich der Zahlung kommen sollte.
 
 enableLocationTutorial:
 # English for ⤵: Here's how to enable location services for this website:
@@ -1668,19 +1668,19 @@ relationData:
 
 genderData:
 # English for ⤵: Gender
-  gender: Gender
+  gender: Geschlecht
 # English for ⤵: Man
-  man: Man
+  man: Männlich
 # English for ⤵: Woman
-  woman: Woman
+  woman: Weiblich
 # English for ⤵: Man - Trans FtM
-  manTransFtm: "Man - Trans FtM"
+  manTransFtm: "Männlich - Trans W zu M"
 # English for ⤵: Woman - Trans MtF
-  womanTransMtf: "Woman - Trans MtF"
+  womanTransMtf: "Weiblich - Trans M zu W"
 # English for ⤵: Non-binary
-  nonBinary: "Non-binary"
+  nonBinary: "Nicht-Binär"
 
 otherData:
 # English for ⤵: Other
-  other: Other
+  other: divers
 
